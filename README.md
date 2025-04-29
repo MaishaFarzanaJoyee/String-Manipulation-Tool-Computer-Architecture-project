@@ -1,4 +1,4 @@
-# String-Manipulation-Tool-Computer-Architecture-project
+# String-Manipulation-Tool-Microprosser-project
 String Manupulation Tool CSE341BRACU <br>
 This tool can do three different operation according to the user’s choice, 
 Count the frequency of consonants in that string
